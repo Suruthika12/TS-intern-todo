@@ -1,0 +1,1 @@
+**TaskMate** is a simple and responsive To-Do web app built using HTML, CSS, and JavaScript. It allows users to create an account, log in, add tasks, and manage them — all stored locally in the browser using `localStorage`.
